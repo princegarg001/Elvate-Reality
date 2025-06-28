@@ -11,7 +11,7 @@ export default function Home() {
   
 <motion.div
   className="absolute inset-0 bg-cover bg-center z-0"
-  style={{ backgroundImage: "url('/public/pngtree-building-real-estate-blue-picture-image_2444539.jpg')" }}
+  style={{ backgroundImage: "url('/pngtree-building-real-estate-blue-picture-image_2444539.jpg')" }}
   initial={{ scale: 1.1, opacity: 0 }}
   animate={{ scale: 1, opacity: 1 }}
   transition={{ duration: 2 }}
