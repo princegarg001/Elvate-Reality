@@ -1,11 +1,11 @@
 export default function Properties() {
   const images = [
-    "public/OIP (1).jpeg",
-    "public/OIP (2).jpeg",
-    "public/OIP (3).jpeg",
-    "public/OIP (4).jpeg",
-    "public/OIP (5).jpeg",
-    "public/OIP (6).jpeg",
+    "/OIP (1).jpeg",
+    "/OIP (2).jpeg",
+    "/OIP (3).jpeg",
+    "/OIP (4).jpeg",
+    "/OIP (5).jpeg",
+    "/OIP (6).jpeg",
   ];
 
   return (
